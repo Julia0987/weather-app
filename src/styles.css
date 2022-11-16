@@ -1,0 +1,56 @@
+h1 {
+  color: black;
+  padding: 5px;
+  max-width: 100%;
+  font-weight: 500;
+}
+p {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-radius: 15px;
+  margin: -1px 25% -1px 25%;
+  max-width: 50%;
+  padding: 5px 0 10px 0;
+}
+body {
+  background: cover;
+  background: #aaafbd;
+  opacity: 90%;
+}
+
+.currentWeather {
+  color: black;
+  padding: 5px;
+  max-width: 100%;
+  font-size: 35px;
+}
+
+.container {
+  margin: 30px auto;
+  padding: 10px;
+  border: 3px solid #a3acbd;
+  border-radius: 30px;
+  max-width: 70%;
+  background-image: url("media/cloudysky.jpg");
+  background-size: cover;
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.currentCity {
+  font-weight: 500;
+}
+.currentLocation {
+  margin: 0 auto;
+  color: grey;
+  background-color: white;
+  display: block;
+  border: 1px lightgrey solid;
+  border-radius: 10px;
+}
+
+.currentLocation:hover {
+  color: lightblue;
+  background-color: grey;
+  border: 1px grey solid;
+}
