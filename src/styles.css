@@ -31,7 +31,7 @@ body {
   border: 3px solid #a3acbd;
   border-radius: 30px;
   max-width: 70%;
-  background-image: url("media/cloudysky.jpg");
+  background-image: url("../media/cloudysky.jpg");
   background-size: cover;
   text-align: center;
   font-family: "Nunito Sans", sans-serif;
